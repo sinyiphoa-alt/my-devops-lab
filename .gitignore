@@ -1,0 +1,8 @@
+# Never commit credentials, keys, or local junk
+*.pem
+*.key
+id_rsa*
+.env
+*credential*
+.DS_Store
+Thumbs.db
