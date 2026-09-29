@@ -11,4 +11,4 @@ Hands-on DevOps lab notes. One folder per session.
 
 All lab servers and subdomains are temporary and are
 recycled after each session. Screenshots show them
-live at the time.Learned: commit small, push often.
+live at the time.
