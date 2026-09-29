@@ -23,3 +23,6 @@ Browser -> Elastic IP -> security group -> Nginx.
 ## Note
 Training lab; server and IP recycled after the session.
 Screenshots show it live. IPs written <YOUR-ELASTIC-IP>.
+## Where things live
+Nginx config: /etc/nginx/sites-available/default
+Access log:   /var/log/nginx/access.log
